@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Gunung Populer di Indonesia</string>
+
+    <string name="mountain_name">Nama Gunung</string>
+    <string name="description">Deskripsi</string>
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+    <string name="tv_splash">App Mountain</string>
+    <string-array name="data_name">
+        <item>Gunung Ciremai</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Cikuray</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Pangradin</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Papandayan</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Salak</item>
+        <item>Gunung Guntur</item>
+        <item>Gunung Arjuno</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Gunung Ciremai merupakan gunung tertinggi Jawa Barat, berdiri soliter dengan puncak tertinggi 3078 mdpl , berbatasan dengan tiga kabupaten yaitu kabupaten Kuningan, kabupaten Cirebon dan kabupaten Majalengka. Perubahan kawasan hutan gunung Ciremai menjadi Taman Nasional Gunung Ciremai  (TNGC) ditunjuk oleh Menteri Kehutanan pada tahun 2004 melalui Keputusan Menteri Kehutanan Nomor: 424/Menhut-II/2004 tanggal 19 Oktober Tahun 2004, berdasarkan  usulan dari Pemerintah Kabupaten Kabupaten Kuningan dan  Majalengka.</item>
+        <item>Gunung Semeru atau Gunung Meru adalah sebuah gunung berapi kerucut di Jawa Timur, Indonesia. Gunung Semeru merupakan gunung tertinggi di Pulau Jawa, dengan puncaknya Mahameru, 3.676 meter dari permukaan laut (mdpl). Gunung ini terbentuk akibat subduksi Lempeng Indo-Australia kebawah Lempeng Eurasia. Gunung Semeru juga merupakan gunung berapi tertinggi ketiga di Indonesia setelah Gunung Kerinci di Sumatra dan Gunung Rinjani di Nusa Tenggara Barat. Kawah di puncak Gunung Semeru dikenal dengan nama Jonggring Saloko.</item>
+        <item>Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru.</item>
+        <item>Gunung Lawu adalah sebuah gunung berapi aktif yang terletak di Pulau Jawa, tepatnya di perbatasan Jawa Tengah dan Jawa Timur, Indonesia. Gunung Lawu memiliki ketinggian sekitar 3.265 mdpl. Gunung Lawu terletak di antara tiga kabupaten, yaitu Karanganyar di Jawa Tengah, Ngawi, dan Magetan di Jawa Timur. Status gunung ini adalah gunung api "istirahat", yang diperkirakan terakhir meletus pada tanggal 28 November 1885 dan telah lama tidak aktif, terlihat dari rapatnya vegetasi serta puncaknya yang tererosi.</item>
+        <item>Gunung Cikuray dalah sebuah gunung bertipe Stratovolcano yang terletak di Dayeuhmanggung, Kabupaten Garut, Jawa Barat, Indonesia. Gunung Cikuray yang mempunyai ketinggian 2.821 meter di atas permukaan laut ini tidak mempunyai kawah aktif dan merupakan gunung tertinggi keempat di Jawa Barat setelah Gunung Ciremai, Gunung Pangrango dan Gunung Gede.</item>
+        <item>Gunung Gede merupakan sebuah gunung berapi kerucut yang berada di bagian barat Pulau Jawa, Indonesia. Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980. Gunung ini berada di dua wilayah kabupaten yaitu Kabupaten Cianjur dan Sukabumi, dengan ketinggian 1.000 - 2.958 mdpl, dan berada pada lintang 106 51  107 02 BT dan 64 1 - 65 1 LS. Suhu rata-rata di puncak gunung Gede adalah 18 C di siang hari dan di malam hari suhu puncak berkisar 5 C, dengan curah hujan rata-rata 3.600 mm tahun.</item>
+        <item>Gunung Slamet adalah sebuah gunung berapi kerucut tipe A yang berada di Jawa Tengah, Indonesia, dan merupakan gunung tunggal yang terpisah dari pegunungan. Gunung Slamet memiliki ketinggian 3.432 mdpl dan terletak di antara 5 kabupaten, yaitu Kabupaten Banyumas, Kabupaten Purbalingga, Kabupaten Pemalang, Kabupaten Tegal dan Kabupaten Brebes.</item>
+        <item>Gunung Pangradinan berada di perbatasan Kampung Gorowek, Desa Mekarlaksana dengan Kampung Cikancung Girang, Desa Cikancung, Kecamatan Cikancung, Kabupaten Bandung. Jika ditarik garis lurus, kawasan ini berjarak sekitar 29 kilometer ke arah tenggara dari pusat Kota Bandung.</item>
+        <item>Gunung Merbabu adalah gunung api yang bertipe Stratovulcano yang terletak secara geografis pada 7,5 LS dan 110,4 BT. Secara administratif gunung ini berada di wilayah Kabupaten Magelang di lereng sebelah barat dan Kabupaten Boyolali di lereng sebelah timur dan selatan, Kabupaten Semarang di lereng sebelah utara, Provinsi Jawa Tengah.</item>
+        <item>Gunung Papandayan gunung api stratovolcano[2] yang terletak di Kabupaten Garut, Jawa Barat, tepatnya di Kecamatan Cisurupan. Gunung dengan ketinggian 2.665 m di atas permukaan laut ini terletak sekitar 70 km sebelah tenggara Kota Bandung. Gunung Papandayan mempunyai beberapa kawah yang terkenal, di antaranya Kawah Mas, Kawah Baru, Kawah Nangklak, dan Kawah Manuk. Kawah-kawah tersebut mengeluarkan uap dari sisi dalamnya.</item>
+        <item>Gunung Kerinci adalah gunung tertinggi di pulau Sumatra dan gunung berapi tertinggi di Indonesia juga Asia Tenggara. Gunung Kerinci terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatera Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra.</item>
+        <item>Gunung Sumbing adalah gunung api yang terdapat di Jawa Tengah, Indonesia. (Ketinggian puncak 3.371 mdpl), gunung Sumbing merupakan gunung tertinggi ketiga di Pulau Jawa setelah Gunung Semeru dan Gunung Slamet. Gunung ini secara administratif terletak di tiga wilayah kabupaten, yaitu Kabupaten Magelang; Kabupaten Temanggung; dan Kabupaten Wonosobo.</item>
+        <item>Gunung Salak merupakan kompleks gunung berapi yang terletak di selatan Jakarta, di Pulau Jawa. Kawasan rangkaian gunung ini termasuk ke dalam wilayah Kabupaten Sukabumi dan Kabupaten Bogor, Jawa Barat. Pengelolaan kawasan hutannya semula berada di bawah Perum Perhutani Kesatuan Pemangkuan Hutan (KPH) Bogor, tetapi sejak 2003 menjadi wilayah perluasan Taman Nasional Gunung Halimun, dan dikelola sebagai Taman Nasional Gunung Halimun-Salak.</item>
+        <item>Gunung Guntur adalah gunung berapi kerucut aktif yang terdapat di Kelurahan Pananjung dan Desa Pasawahan, Tarogong Kaler, Kabupaten Garut, Jawa Barat, dan memiliki ketinggian 2.249 meter dpl. Gunung Guntur berdekatan dengan gunung-gunung lainya yang mengelilingi kota Garut. Di sebelah selatan Gunung Guntur, ada Gunung Putri yang berhadapan dengan Gunung Cikuray dan Gunung Papandayan, kemudian di sebelah barat ada Gunung Masigit, Gunung Parupuyan, dan gunung lainnya. </item>
+        <item>Gunung Arjuno adalah sebuah gunung berapi kerucut (istirahat) di Jawa Timur, Indonesia dengan ketinggian 3.339 m dpl. Gunung Arjuno secara administratif terletak di perbatasan Kota Batu, Kabupaten Malang, dan Kabupaten Pasuruan dan berada di bawah pengelolaan Taman Hutan Raya Raden Soerjo. Gunung Arjuno merupakan gunung tertinggi kedua di Jawa Timur setelah Gunung Semeru, serta menjadi yang tertinggi keempat di Pulau Jawa. Biasanya gunung ini dicapai dari tiga titik pendakian yang cukup dikenal yaitu dari Lawang, Tretes dan Batu. Nama Arjuno berasal dari salah satu tokoh pewayangan Mahabharata, Arjuna.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ciremai</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/lawu</item>
+        <item>@drawable/cikuray</item>
+        <item>@drawable/gede</item>
+        <item>@drawable/slamet</item>
+        <item>@drawable/pangradinan</item>
+        <item>@drawable/merbabu</item>
+        <item>@drawable/papandayan</item>
+        <item>@drawable/kerinci</item>
+        <item>@drawable/sumbing</item>
+        <item>@drawable/salak</item>
+        <item>@drawable/guntur</item>
+        <item>@drawable/arjuno</item>
+    </integer-array>
+</resources>
